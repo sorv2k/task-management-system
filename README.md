@@ -49,9 +49,3 @@ docker-compose up --build
 - `PUT /api/tasks/{id}` - Update task
 - `DELETE /api/tasks/{id}` - Delete task (Admin only)
 - `GET /api/tasks/stats` - Get statistics
-
-## Author
-
-Sourav Guruprasad
-- [LinkedIn](https://linkedin.com/in/souravguruprasad)
-- [GitHub](https://github.com/sorv2k)
