@@ -1,0 +1,16 @@
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/config/SecurityConfig.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/controller/UserController.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/controller/TaskController.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/security/JwtAuthenticationFilter.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/dto/TaskDTO.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/TaskManagementApplication.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/security/JwtUtils.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/model/User.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/model/Task.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/service/UserService.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/dto/UserDTO.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/repository/UserRepository.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/controller/AuthController.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/service/TaskService.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/repository/TaskRepository.java
+/Users/souravg/Projects/task-management-system/src/main/java/com/sourav/taskmanager/security/UserDetailsServiceImpl.java
